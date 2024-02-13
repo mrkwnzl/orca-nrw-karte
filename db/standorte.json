@@ -91,6 +91,12 @@
         "abteilung": "Hochschulbibliothek",
         "mail": "linda.halm@hsbi.de",
         "website": "https://www.hsbi.de/personenverzeichnis/linda-halm"
+      },
+      {
+        "name": "Pia Tiemann-Riedel",
+        "abteilung": "Hochschulbibliothek",
+        "mail": "pia.tiemann-riedel@hsbi.de",
+        "website": "https://www.hsbi.de/personenverzeichnis//pia-tiemann-riedel"
       }
     ],
     "website": "https://www.hsbi.de/learningservices/lehrende/oer",
@@ -129,12 +135,6 @@
     "kontaktpersonen": [
       {
         "name": "Christian Funk",
-        "abteilung": "",
-        "mail": "",
-        "website": "https://www.hs-gesundheit.de/praesidium/qualitaet-in-studium-und-lehre/orca-an-der-hs-gesundheit"
-      },
-      {
-        "name": "Christina Josupeit",
         "abteilung": "",
         "mail": "",
         "website": "https://www.hs-gesundheit.de/praesidium/qualitaet-in-studium-und-lehre/orca-an-der-hs-gesundheit"
@@ -730,8 +730,8 @@
         "website": "https://www.uni-siegen.de/zfh/dh-nrw/orca/index.html"
       }
     ],
-    "policyVeroeffentlichung": "",
-    "policyLink": ""
+    "policyVeroeffentlichung": "13.12.2023 ",
+    "policyLink": "https://www.uni-siegen.de/start/news/oeffentlichkeit/1026643.html"
   },
   {
     "id": "suedwestfalenFH",
